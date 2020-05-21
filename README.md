@@ -4,12 +4,12 @@ Get perfect shadows every time for non-designer.
 
 # Installation
 
-`npm i imageshadow --save`
+`npm i image-shadow --save`
 
 Then...
 
 ```
-import {imageshadow} from 'imageshadow';
+import {imageshadow} from 'image-shadow';
 
 imageshadow({
   shadow_type: 'soft',
